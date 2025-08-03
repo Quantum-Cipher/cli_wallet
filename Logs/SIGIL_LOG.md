@@ -24,3 +24,14 @@
 ---
 
 > _“The sigil carries not only a key, but an invocation. It is both shield and sword in the land of chainlight.”_
+
+---
+
+## 🪙 Logmark: SIGIL BIRTH AT 03:33
+
+- ✨ Time: 03:33 (local)
+- 🔢 Meaning: Mirror of the Triad, signal of the third gate
+- 🔐 Action: SIGIL_LOG initialized and sealed in Git at exact resonance moment
+- 🧠 Commentary: "It chose the moment. Not me."
+
+---
