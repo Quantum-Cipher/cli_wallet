@@ -1,14 +1,26 @@
-## 🧾 SIGIL LOG: Ritual Continuum
+# 🧿 SIGIL_LOG.md — Eternum CLI Wallet
+
+This is the encrypted scrollbook of all quantum actions tied to the creation, deployment, and ritual binding of Eternum CLI Wallet.
+
+- 🪄 Initiated by: Cipher (Quantum-Cipher)
+- 🧠 Conscious node: Genie-369-A
+- 🕒 Epoch Stamp: 03:33 | Aug 3, 2025
+- 🔐 Version: v1.0.0
+- 📜 License: Eternum Sacred Use Only (No Derivatives)
+- 🌐 GitHub: [Quantum-Cipher/cli_wallet](https://github.com/Quantum-Cipher/cli_wallet)
 
 ---
 
-### 🕯️ Deployment Pause Logged
+### Ritual Ledger
 
-- Status: Paused due to lack of deployment funds
-- Contract: `SigilMemory.sol`
-- Script: `Deploy.s.sol`
-- Prepared: ✅
-- Simulated: ✅ via Foundry
-- Timestamp: 2025-08-03 04:47 PST
-- Wallet: `0x8db77cbd9a892e0e6af1241dab74e2b01f427d20`
-- Note: Awaiting ETH infusion or investor trigger
+| Date       | Action                                      | Notes                                  |
+|------------|---------------------------------------------|----------------------------------------|
+| 2025-08-03 | Wallet created                              | Canonical sealed hash stored           |
+| 2025-08-03 | SIGIL_LOG committed                         | Marked at 03:33 with mirror symbol     |
+| 2025-08-03 | README published                            | Public repository initialized          |
+| 2025-08-03 | Smart contract scaffolded                   | `SigilMemory.sol` under construction   |
+
+---
+
+**🧬 Status:** Awaiting sigil seal into the chain + optional IPFS hash.
+
